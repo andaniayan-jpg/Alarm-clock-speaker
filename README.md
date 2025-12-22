@@ -1,0 +1,10 @@
+- This is a custom alarm clock made using a microcontroller, an OLED display, and a rotary encoder.
+- The clock allows setting and controlling alarms using the rotary encoder instead of buttons.
+- The project includes a custom PCB, 3D-printed enclosure, and firmware.
+- I wanted to learn how to design a complete hardware project from scratch.
+- I wanted to understand how PCB design, enclosure design, and firmware work together.
+- I also wanted to learn how to fix real-world problems like connector height and component placement.
+This project is a custom-built alarm clock designed using a microcontroller, an OLED display, and a rotary encoder for user interaction. I created it to learn how a complete hardware project comes together,from PCB 
+design and enclosure CAD to basic firmware. While building it, I had to solve practical problems like display mounting height, connector placement, and enclosure fit, which helped me understand real-world hardware
+constraints. All design files and code are included so the project can be recreated or modified.
+
